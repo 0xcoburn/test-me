@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/coburn24/test-me/issues"
 	},
-	"homepage": "https://github.com/coburn24/test-me#readme"
+	"homepage": "https://github.com/coburn24/test-me#readme",
+	"dependencies": {
+		"chalk": "^3.0.0"
+	}
 }
